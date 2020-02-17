@@ -12,3 +12,5 @@ Creating a new branch is quick and very simple.
 
 This is a new line.
 
+issue 101 is fixed.
+
